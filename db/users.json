@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Daniel",
+    "role": "Software Architect",
+    "createdAt": "2017-10-15"
+  },
+  {
+    "id": "2",
+    "name": "Markus",
+    "role": "Frontend Engineer",
+    "createdAt": "2018-09-01"
+  },
+  {
+    "id": "3",
+    "name": "Andre",
+    "role": "Software Developer",
+    "createdAt": "2015-09-01"
+  },
+  {
+    "id": "4",
+    "name": "Lobo",
+    "role": "Software Developer",
+    "createdAt": "2011-09-01"
+  }
+]
